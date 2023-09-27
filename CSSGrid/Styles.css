@@ -68,7 +68,7 @@ input {
 }
 
 #button_search {
-  background-image: url("/CSSFlexbox/assets/Imagens/search.png");
+  background-image: url("../CSSFlexbox/assets/Imagens/search.png");
   background-repeat: no-repeat;
   background-position: center;
   width: 57px;
