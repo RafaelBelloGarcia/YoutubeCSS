@@ -11,4 +11,4 @@ https://rafaelbellogarcia.github.io/YoutubeCSS/CSSGrid/Index.html
 <br>
 <br>
 
-https://github.com/RafaelBelloGarcia/YoutubeCSS/tree/master/CSSGrid2/Index.html
+https://rafaelbellogarcia.github.io/YoutubeCSS/CSSGrid2/Index.html
