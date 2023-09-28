@@ -12,3 +12,4 @@ https://rafaelbellogarcia.github.io/YoutubeCSS/CSSGrid/Index.html
 <br>
 
 https://rafaelbellogarcia.github.io/YoutubeCSS/CSSGrid2/Index.html
+(Css grid dysplay responsive)
